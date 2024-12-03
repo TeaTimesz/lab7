@@ -43,5 +43,5 @@ int main(){
     cout << name << ": ";
     cin >> cringyline;
     cin.ignore();
-    cout << "Fahsai: 555+ see you " << day << ". Bye Bye ^ ^)/" << endl;
+    cout << "Fahsai: 555+ see you " << day << ". Bye Bye \\(^ ^)/" << endl;
 }
